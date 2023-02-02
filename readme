@@ -1,0 +1,7 @@
+The getData function takes a callback function as an argument and calls it after a 2000ms delay. 
+The displayData function simply logs the data to the console. 
+When getData is called with displayData as its argument, the displayData function will be called with the data array after a 2000ms delay.
+
+
+
+
